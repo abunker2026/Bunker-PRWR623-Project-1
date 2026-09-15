@@ -1,5 +1,3 @@
-(delete later) Instructions: Explain the relevant tool, system, process, or concepts. Define unfamiliar terms. Help readers understand what they will be using and why.
-
 # Background
 
 A critical aspect of research administration is determining the impact that a funded research project (i.e., grant) has on its field. One means to accomplish this is for research administrators—referred to as administrators for simplicity—to track outputs that result from a funded research project. Published, peer-reviewed publications are one type of output that administrators track. Therefore, administrators must keep accurate and complete records of publications that result from the organization’s funded research.
