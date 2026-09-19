@@ -1,29 +1,28 @@
-# Bunker-PRWR623-Project-1: Verifying and Recording Research Outputs
+# Bunker-PRWR623-Project-1: Verifying and Recording Research Publications
 
 ## Background
 
-A critical aspect of research administration is determining the impact that a funded research project (i.e., grant) has on its field. One means to accomplish this is for research administrators—referred to as administrators for simplicity—to track outputs that result from a funded research project. Published, peer-reviewed publications are one type of output that administrators track. Therefore, administrators must keep accurate and complete records of publications that result from the organization’s funded research.
+A critical aspect of research administration is determining the impact that a funded research project (i.e., grant) has on its field. One means to accomplish this is for research administrators to track outputs that result from a funded research project. Published, peer-reviewed publications are one type of output that administrators track, which will be the focus of this documentation. 
 
-However, researchers often do not accurately cite the grants that contributed to the research presented in the publication. To ensure meaningful impact analyses, administrators should only curate records of publications that they personally verify as accurately citing the grants they wish to evaluate.
+Research administrators must keep accurate and complete records of publications that result from the organization’s funded research. However, researchers often do not accurately cite the grants that contributed to the research presented in the publication. To ensure meaningful impact analyses, research administrators should only curate records of publications that they personally verify as accurately citing the grants they wish to evaluate.
 
 ## Communication Problems Addressed
 
-Administrators agree that meaningful analyses of a grant's impact on the field relies, in part, on only tracking publications that result from that grant. However, review of publications captured in a funding organization's centralized publication repository revealed that the criteria for determining the relationship between a publication and a grant varied amongst administrators. Additionally, the quality of the data captured for each publication in the repository also varied in its completeness, and therefore, jeopardized the data's usability for downstream impact analyses.
+Research administrators agree that meaningful analyses of a grant's impact on the field relies, in part, on only tracking publications that result from that grant. However, review of publications captured in a funding organization's centralized publication repository revealed that the criteria for determining the relationship between a publication and a grant varied amongst administrators. Additionally, the quality of the data captured for each publication in the repository also varied in its completeness, and therefore, jeopardized the data's usability for downstream impact analyses.
 
 This documentation addresses these two problems by providing:
 
-1. Specific criteria that administrators can use to determine whether a publication is "directly related", "tangentially related", or "unrelated" to a specific grant.
+1. Specific criteria that research administrators can use to determine whether a publication is "directly related", "tangentially related", or "unrelated" to a specific grant.
 2. Instructions for providing a complete record in the repository for each "directly related" or "tangentially related" publication, including explanations for the purpose of each piece of information captured.
 
 ## Audience
 
 ### Primary Audience
 
-This guide is useful for research administrators managing a portfolio of grants for a funding organization. This guide will be relevant to : 
+This guide is useful for research administrators managing a portfolio of grants for a funding organization. This guide will be relevant to both new and experienced research administrators: 
 
-* Both new and experienced research administrators.
-* When a investigator provides a publication attached to their annual technical report and the administrator needs to determine if it should be recorded in the publication repository.
-* When the administrator finds a publication that does not cite a grant in their portfolio but the content sounds related, and they need to confirm whether a grant in their portfolio did contribute to the research results presented in the publication.
+* When a researcher provides a publication attached to their annual technical report and the research administrator needs to determine if it should be recorded in the publication repository.
+* When the research administrator finds a publication that does not cite a grant in their portfolio but the content sounds related, and they need to confirm whether a grant in their portfolio did contribute to the research results presented in the publication.
 
 ### Secondary Audience
 
@@ -45,5 +44,5 @@ After using this documentation research administrators will be able to:
 * Overview of the process with glossary
 * Assess publications and determine relatedness to specific grants
 * Record publications in a centralized repository using standard data-capture processes
-* Troubleshooting guide with case studies
+* Troubleshooting guide
 * Sources 
