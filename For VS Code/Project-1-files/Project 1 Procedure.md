@@ -63,15 +63,16 @@ Research administrators must ensure consistent capture of complete publication r
 > [!NOTE]
 > DOIs are case and character sensitive.
 
-5. For the Citation field, if using PubMed, click on the "Cite" action button available on the right side of the web citation page. Ensure that "NLM" is the Format option displayed in the pop-up window and click on "Copy". Paste the correctly formatted citation from the web into the Citation field in the data-capture interface. The example citation pop-up below has the key information needed for this process highlighted.
+6. For the Citation field, if using PubMed, click on the "Cite" action button available on the right side of the web citation page. Ensure that "NLM" is the Format option displayed in the pop-up window and click on "Copy". Paste the correctly formatted citation from the web into the Citation field in the data-capture interface. The example citation pop-up below has the key information needed for this process highlighted.
+   
      <img width="644" height="311" alt="image" src="https://github.com/user-attachments/assets/c816f7c4-89e9-47b6-91b3-91e691de571a" />
   
 >[!NOTE]
 >NLM is the preferred citation format for this funding organization.
 
-6. Provide a succinct justification for the Relationship to the Project in the Description/Notes field. The justification should not be any more than 1-3 sentences. Examples of justifications for Directly Related publications include:
+7. Provide a succinct justification for the relationship to the project in the Description/Notes field. The justification should not be any more than 1-3 sentences. Examples of justifications for Directly Related publications include:
     * Figure 2 presents data described in the second annual progress report.
     * This publication presents the findings of Specific Aim 1 from the funded grant.
 
-7. Save the publication record.
+8. Save the publication record.
   
