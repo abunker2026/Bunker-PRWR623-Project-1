@@ -41,7 +41,7 @@ After using this documentation research administrators will be able to:
 
 ## Documentation
 
-* [Overview of the process with glossary](https://github.com/abunker2026/Bunker-PRWR623-Project-1/blob/main/For%20VS%20Code/Project-1-files/Project%201%20Overview.md#background)
+* [Overview of the process with definitions](https://github.com/abunker2026/Bunker-PRWR623-Project-1/blob/main/For%20VS%20Code/Project-1-files/Project%201%20Overview.md#background)
 * [Assess publications and determine relatedness to specific grants](https://github.com/abunker2026/Bunker-PRWR623-Project-1/blob/main/For%20VS%20Code/Project-1-files/Project%201%20Procedure.md#part-1-assess-publication)
 * [Record publications in a centralized repository using standard data-capture processes](https://github.com/abunker2026/Bunker-PRWR623-Project-1/blob/main/For%20VS%20Code/Project-1-files/Project%201%20Procedure.md#part-2-record-publication)
 * [Troubleshooting guide](https://github.com/abunker2026/Bunker-PRWR623-Project-1/blob/main/For%20VS%20Code/Project-1-files/Project%201%20Troubleshooting.md#assess-publications-troubleshooting)
