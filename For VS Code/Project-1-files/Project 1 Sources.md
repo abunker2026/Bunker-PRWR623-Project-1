@@ -10,8 +10,8 @@ The procedure directly or indirectly references the following sources of publica
 ## Not publicly available information
 The premise of the procedure is based off the author's experiences working for a federal organization that funds biomedical research. Some of the tools and systems mentioned in the procedure are only accessible to federal employees.
 
-* The screenshot of the publication repository data-capture interface is from the electronic grants management system, called EGS, used by the author's organization. No system data are compromised through the use of the screen shot.
-* The definitions used throughout the documentation come from the author's experience as a research administrator and evaluator; there are no formal sources for the definitions, other when explicitly stated otherwise.
+* The screenshot of the publication repository data-capture interface is from the electronic grants management system used by the author's organization. No system data are compromised through the use of the screen shot.
+* The definitions used throughout the documentation come from the author's experience as a research administrator and evaluator; there are no formal sources for the definitions, other than when explicitly stated otherwise.
 
 ## Disclaimer
 No AI tools (e.g., ChatGPT, Claude) were used to create or edit any of this project's documentation.
