@@ -1,6 +1,6 @@
 # Background
 
-A critical aspect of research administration is determining the impact that a funded research project (i.e., grant) has on its field. One means to accomplish this is for research administrators—referred to as administrators for simplicity—to track outputs that result from a funded research project. Published, peer-reviewed publications are one type of output that administrators track. Therefore, administrators must keep accurate and complete records of publications that result from the organization’s funded research.
+A critical aspect of research administration is determining the impact that a funded research project has on its field. One means to accomplish this is for research administrators to track outputs that result from a funded research project. Published, peer-reviewed publications are one type of output that research administrators track. Therefore, research administrators must keep accurate and complete records of publications that result from the organization’s funded research.
 
 However, researchers often do not accurately cite the grants that contributed to the research presented in the publication. To ensure meaningful impact analyses, administrators should only curate records of publications that they personally verify as accurately citing the grants they wish to evaluate.
 
@@ -14,7 +14,7 @@ However, researchers often do not accurately cite the grants that contributed to
 
 # Defining Publication Repository Terms
 
-**Preprint**: A completed draft of a scientific document that has not been peer-reviewed, but is publicly available via an online repository such as bioRxiv. Additional information available from the National Library of Medicine.
+**Preprint**: A completed draft of a scientific document that has not been peer-reviewed, but is publicly available via an online repository such as bioRxiv. Additional information about preprints can be found on the the National Library of Medicine website,
  https://www.nlm.nih.gov/oet/ed/pmc/preprints/index.html.
 
 **PMID**: PubMed IDs (PMID) are automatically assigned by PubMed after a manuscript is published in an indexed journal. All publications in PubMed have a PMID regardless of their type or funding source. 
